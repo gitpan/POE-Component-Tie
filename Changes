@@ -1,0 +1,6 @@
+Revision history for Perl extension POE::Component::Tie.
+
+0.01  Tue Sep 28 21:56:02 2004
+	- original version; created by h2xs 1.23 with options
+		-AX -n POE::Component::Tie
+

@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/00_Basic.t
+t/01_Scalar.t
+t/02_Array.t
+t/03_Hash.t
+lib/POE/Component/Tie.pm
+META.yml                                 Module meta-data (added by MakeMaker)
